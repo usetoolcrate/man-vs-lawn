@@ -180,7 +180,7 @@ export function PublicLandingPage() {
             work, not a subcontractor's.
           </p>
           <p className="text-[#1f2a1a]/80 leading-relaxed mb-6">
-            He also coaches wrestling at his old high school. If a job needs more
+            He also used to coach wrestling at his old high school. If a job needs more
             hands than his own, he'll say so up front and help line up someone who
             can do it right.
           </p>
